@@ -20,7 +20,7 @@ $ pkg install play-audio
 
 $ git clone https://github.com/Dhanz03/Sayang-muna
 
-$ cd bruteFB
+$ cd Sayang-muna
 
 $ git pull
 
